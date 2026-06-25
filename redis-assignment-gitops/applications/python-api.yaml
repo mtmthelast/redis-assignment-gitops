@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/mtmthelast/redis-assignment-gitops.git
+    repoURL: "https://github.com/mtmthelast/redis-assignment-gitops.git"
     targetRevision: main
     path: python-api
 
