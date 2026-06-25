@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: "https://github.com/mtmthelast/redis-assignment-gitops.git"
     targetRevision: HEAD
-    path: python-api
+    path: templates
 
   destination:
     server: https://kubernetes.default.svc
